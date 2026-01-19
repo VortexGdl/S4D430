@@ -28,3 +28,4 @@ c.Street,
 c.PostalCode,
 c.City
 }
+where c.CountryCode = 'DE'
